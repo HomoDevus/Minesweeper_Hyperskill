@@ -1,5 +1,5 @@
 # Minesweeper_Hyperskill
-Project from JetBrains academy course on "Front End Developer" learning track.
+Project from [JetBrains academy](https://www.jetbrains.com/academy/) course on ["Front End Developer" learning track](https://hyperskill.org/tracks/5?_gl=1%2avtb9k4%2a_ga%2aMTIzMDYyOTA5OS4xNjIwOTgwOTQ0%2a_ga_V0XZL7QHEB%2aMTYyMzY2NjkxNC40LjEuMTYyMzY2NzU0Mi4w&_ga=2.23140664.323523152.1623666914-1230629099.1620980944).
 
 This project build on pure React
 
