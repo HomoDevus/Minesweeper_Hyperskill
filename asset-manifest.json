@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Minesweeper_Hyperskill/static/css/main.22d94ddc.chunk.css",
+    "main.js": "/Minesweeper_Hyperskill/static/js/main.a24ce9ca.chunk.js",
+    "main.js.map": "/Minesweeper_Hyperskill/static/js/main.a24ce9ca.chunk.js.map",
+    "runtime-main.js": "/Minesweeper_Hyperskill/static/js/runtime-main.6d43e24c.js",
+    "runtime-main.js.map": "/Minesweeper_Hyperskill/static/js/runtime-main.6d43e24c.js.map",
+    "static/js/2.811e2da4.chunk.js": "/Minesweeper_Hyperskill/static/js/2.811e2da4.chunk.js",
+    "static/js/2.811e2da4.chunk.js.map": "/Minesweeper_Hyperskill/static/js/2.811e2da4.chunk.js.map",
+    "index.html": "/Minesweeper_Hyperskill/index.html",
+    "static/css/main.22d94ddc.chunk.css.map": "/Minesweeper_Hyperskill/static/css/main.22d94ddc.chunk.css.map",
+    "static/js/2.811e2da4.chunk.js.LICENSE.txt": "/Minesweeper_Hyperskill/static/js/2.811e2da4.chunk.js.LICENSE.txt",
+    "static/media/Minesweeper.css": "/Minesweeper_Hyperskill/static/media/logo.4cd9fe7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d43e24c.js",
+    "static/js/2.811e2da4.chunk.js",
+    "static/css/main.22d94ddc.chunk.css",
+    "static/js/main.a24ce9ca.chunk.js"
+  ]
+}
