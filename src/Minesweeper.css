@@ -87,7 +87,7 @@ h2 {
 
 .bomb {
     background-color: #be6157 !important;
-    background-image: url("img/logo.svg");
+    background-image: url("./img/logo.svg");
     box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, .2);
 }
 
@@ -97,7 +97,7 @@ h2 {
 }
 
 .flagged {
-    background-image: url("img/flag.svg");
+    background-image: url("./img/flag.svg");
 }
 
 .reset-button {
